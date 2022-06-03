@@ -19,12 +19,12 @@ Location: Russia
 ## Courses
 - Rs School, Frontend Stage #0  
 *May 2022 – Present*
-- FreeCodeCamp
-*January 2021 - Present*
-*251 total points*
-- Mimo
-*November 2021 - Present*
-*84% Web Development*
+- FreeCodeCamp  
+*January 2021 - Present* 
+*251 total points*  
+- Mimo  
+*November 2021 - Present*  
+*84% Web Development*  
 
 ## Experience
 
