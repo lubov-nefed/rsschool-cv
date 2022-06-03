@@ -13,7 +13,7 @@ Location: Russia
 ## Education
 - Lobachevsky Universiry, bachelor of Psychology  
 *2014 - 2018*
-- Lobachevsky Universiry, Physical Culture and Sports, retrainig
+- Lobachevsky Universiry, Physical Culture and Sports, retrainig  
 *March 2019 - June 2019*
 
 ## Courses

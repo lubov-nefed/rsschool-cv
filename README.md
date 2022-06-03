@@ -1,1 +1,1 @@
-#rsschool-cv
+https://lubov-nefed.github.io/rsschool-cv/cv
