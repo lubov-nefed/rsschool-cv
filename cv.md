@@ -26,3 +26,19 @@ Location: Russia
 *November 2021 - Present*
 *84% Web Development*
 
+## Experience
+
+- Junior Software Developer, Freelance  
+*May 2022 – Present*
+
+## Skills
+- Html, Css
+- JavaScript (basic knowledge)
+- BEM naming and file structure
+
+## Languages
+- Russian (native)
+- English (B1-B2)
+  #### Interest in
+- Ukranian (learner)
+- Interslavic (learner)
