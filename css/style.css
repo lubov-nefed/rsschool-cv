@@ -63,6 +63,9 @@ a:visited {
     justify-content: space-between;
     flex-wrap: wrap;
 }
+.fs-header__menu-link{
+    color: #104993;
+}
 .fs__content{
     margin-top: 6rem;
 }
@@ -149,6 +152,9 @@ a:visited {
 .fs-footer__list > .menu__item:hover{
     transform: scale(1.19);
     color: #ff8e9b;
+}
+.fs-footer__menu-link{
+    color: #FFFFFF;
 }
 /* main */
 .main {
