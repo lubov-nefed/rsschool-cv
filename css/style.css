@@ -12,9 +12,6 @@ a:visited {
 .first-screen {
     color: #104993;
 }
-.first-screen__container {
-    
-}
 .first-screen__header {
     display: flex;
     justify-content: space-between;
@@ -37,13 +34,9 @@ a:visited {
 .fs-header__contact-img:hover{
     transform: scale(1.5);    
 }
-.menu {
-}
 .menu__list {
     display: flex;
     flex-wrap: wrap;
-}
-.menu__item {
 }
 .fs-header__item{
     transition-duration: 0.4s;
@@ -125,8 +118,6 @@ a:visited {
     margin-left: 0.5rem;
     margin-bottom: 4rem;
 }
-.profile-image {
-}
 .first-screen__footer {
     font-family: 'Roboto', sans-serif;
     background-color: #139FEC;
@@ -165,8 +156,6 @@ a:visited {
     font-size: 24px;
     line-height: 146%;
     color: #104993;
-}
-.main__container{
 }
 /* about */
 .about {
@@ -208,8 +197,6 @@ a:visited {
 .ed-skills-list {
     margin-top: 25px;
 }
-.education-and-skills__courses {
-}
 .courses {
     margin-top: 59px;
 }
@@ -218,14 +205,8 @@ a:visited {
     font-size: 30px;
     line-height: 35px;
 }
-.courses__list {
-}
-.courses__item {
-}
 .courses__item:not(:first-child) {
     margin-top: 25px;
-}
-.courses__link {
 }
 .courses__text{
     display: inline-block;
@@ -240,12 +221,8 @@ a:visited {
     height: 60px;
     vertical-align: 60%;
 }
-.education-and-skills__skills {
-}
 .skills {
     margin-top: 59px;
-}
-.skills__list {
 }
 .skills__item:not(:first-child) {
     margin-top: 20px;
@@ -257,9 +234,6 @@ a:visited {
 .skills__text {
     display: inline-block;
     margin-left: 20px; 
-}
-.skills__item--with-dot { 
-
 }
 .skills__item--with-dot::before{
     display: inline-block;
@@ -287,14 +261,9 @@ a:visited {
     max-width: 500px;
     transition-duration: 0.6s;
 }
-.projects__link {
-    
-}
 .projects__item:hover {
     transform: scale(1.12);
     color: #FF2E47;
-}
-.projects__img {
 }
 .projects__description{
     display: flex;
@@ -306,11 +275,8 @@ a:visited {
     font-size: 24px;
     line-height: 146%;
 }
-
 .projects__techs {
     display: flex;
-}
-.project-tech {
 }
 .project-tech__img:not(:first-child) {
     margin-left: 15px;
@@ -324,8 +290,6 @@ a:visited {
     border-radius: 10px;
     margin-top: 42px;
     padding: 71px 87px 91px 71px;
-}
-.code-sample__code {
 }
 .code-sample__code--blue{
     color: #268ADB;
@@ -396,8 +360,6 @@ a:visited {
     z-index: 2;
     text-align: right;
 }
-.go-top-arrow-img {
-}
 /* footer */
 .footer {
     background-color: #268ADB;
@@ -412,10 +374,6 @@ a:visited {
 }
 .footer__rsschool-link:hover {
     transform: scale(1.2);
-}
-.rsschool {
-}
-.rsschool-img {
 }
 .footer__copyright {
     font-weight: 500;
@@ -436,6 +394,4 @@ a:visited {
 }
 .footer__link:not(:first-child) {
     margin-left: 1.25rem;
-}
-.footer__img {
 }
